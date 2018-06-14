@@ -1,0 +1,37 @@
+.container{
+	width:57%;
+	height:30%;
+	margin-left: 445px;
+	background-color:#331250;
+	
+  
+
+}
+body{
+	/*background: #36344c;*/
+	background-color: #
+
+}
+header{
+	text-align: center;
+	margin-left: 40px;
+	font-size: medium;
+	}
+
+fieldset{
+	background-color:#e6e6ff;
+	height:375px;
+	margin-left: 80px;
+	text-align: center;
+	font-size: medium;
+
+}
+input{min-height: 50px;
+	text-align: center;
+	font-size: 18px;
+	border-radius:6px;
+	border:none;
+}
+
+
+ 
